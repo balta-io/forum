@@ -5,6 +5,9 @@ Este fórum é **exclusivo** para dúvidas relacionadas aos [**cursos**](https:/
 
 Se você precisa de ajuda administrativa ou comercial, por favor, entre em contato pela nossa [Central de Ajuda e Suporte](https://balta.io/ajuda).
 
+## Como faço uma pergunta?
+👉 Se você precisar de ajuda para começar, [siga nosso passo-a-passo](https://balta.io/blog/como-tirar-duvidas)
+
 ## Como ser respondido rápido?
 * Informe qual **Curso** e **Aula** você está realizando
 * Detalhe seu problema
